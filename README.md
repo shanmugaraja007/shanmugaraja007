@@ -1,5 +1,5 @@
 # 💫 About Me:
-"I'm currently 🚗 working in Automotive Active Safety Developer 🛡️.<br> Exploring the world of Self Driving Cars 🤖🚗 with a mix of AI, ML, and Computer Vision 👁️🧠💻."<br>
+"I'm currently Doing Masters in AI at BSBI, Berlin and previously 🚗 working in Automotive Active Safety Developer 🛡️.<br> Exploring the world of Self Driving Cars 🤖🚗 with a mix of AI, ML, and Computer Vision 👁️🧠💻."<br>
 
 
 ## 🌐 Socials:
