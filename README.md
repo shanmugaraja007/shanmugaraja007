@@ -14,10 +14,11 @@ I'm a Robotics and Computer Vision Engineer with a Master's degree in AI & Robot
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shanmugaraja007&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shanmugaraja007&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🚀 Motivation
+
+> *"Failure is an option here. If things are not failing, you are not innovating enough."*  
+> — **Elon Musk**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shanmugaraja007&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
