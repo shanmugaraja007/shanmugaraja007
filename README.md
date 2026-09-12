@@ -1,5 +1,7 @@
 # 💫 About Me:
-"I'm currently Doing Masters in AI at BSBI, Berlin and previously 🚗 working in Automotive Active Safety Developer 🛡️.<br> Exploring the world of Self Driving Cars 🤖🚗 with a mix of AI, ML, and Computer Vision 👁️🧠💻."<br>
+I'm a Robotics and Computer Vision Engineer with a Master's degree in AI & Robotics.
+
+🔭 Currently working on classical Computer Vision techniques and AI-based Computer Vision models for 3D scene reconstruction.
 
 
 ## 🌐 Socials:
